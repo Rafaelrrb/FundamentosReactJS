@@ -1,0 +1,16 @@
+Criando com Vite ( https://vitejs.dev/guide/ )
+  npm create vite@latest (nome do projeto) --template react
+
+Executando o projeto 
+  Antes de rodar ele vc deve usar
+    npm install
+
+  Para rodar usar
+    npm run dev
+
+Organizar arquivos da pasta SRC deixar apenas o APP.JSX e MAIN.JSX deleter o restante. Criar a pasta pages e sub pasta HOME mover o arquivo APP.JSX para ele mudar o nome para INDEX.JSX
+
+Criando pasta STYLES com o arquivo GLOBAL.CSS resetar o estilo para um padrão depois import './styles/global.css' dentro do MAIN.JSX 
+
+  Importanto fontes (https://fonts.google.com/)
+    escolher fontes copiar link botar link dentro do index antes da tag titulo depois dentro de GLOBAL.CSS definir as fontos como padrão dentro das tags
